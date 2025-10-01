@@ -7,18 +7,6 @@ The goal is to provide business insights that can help in targeted marketing, cu
 For better understanding,please refer this presentation
 [View Project Presentation (PDF)](reports/Customer_Segmentation_Presentation.pdf) 
 
-## 📂 Project Structure
-```bash
-Unsupervised_Learning/
-├─ data/                  # dataset or script to load data
-├─ notebooks/             # Jupyter walkthroughs
-├─ src/                   # clustering scripts (kmeans, dbscan, etc.)
-├─ reports/               # graphs, charts, insights
-├─ requirements.txt       # dependencies
-├─ README.md
-└─ .gitignore
-```
-
 ## 📊 Dataset
 Source: UCI / Kaggle Credit Card Dataset
 Features: Income, Spending Score, Balance, Purchases, etc.
