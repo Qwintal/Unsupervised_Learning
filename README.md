@@ -3,6 +3,10 @@
 This project applies unsupervised machine learning techniques (K-Means, DBSCAN, Hierarchical Clustering) on the Credit Card Dataset to identify customer segments based on spending and income behavior.
 The goal is to provide business insights that can help in targeted marketing, customer retention, and personalized offers.
 
+### PPT
+For better understanding,please refer this presentation
+[View Project Presentation (PDF)](reports/Customer_Segmentation_Presentation.pdf) 
+
 ## 📂 Project Structure
 ```bash
 Unsupervised_Learning/
