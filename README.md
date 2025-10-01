@@ -30,7 +30,6 @@ K-Means
 DBSCAN
 
 ## 📈 Results & Insights
-Cluster Visualizations
 ![k-means Cluster1](reports/figures/kmeans_clusters.png)
 ![Dendogram](reports/figures/dendrogram.png)
 ![3D_k-means](reports/figures/kmeans_clusters.png)
