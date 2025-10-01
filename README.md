@@ -30,13 +30,13 @@ K-Means
 DBSCAN
 
 ## 📈 Results & Insights
-![k-means Cluster1](reports/figures/kmeans_clusters.png)
-![Dendogram](reports/figures/dendrogram.png)
-![3D_k-means](reports/figures/kmeans_clusters.png)
-![Anamolies_k-means](reports/figures/dendrogram.png)
-![DBSCAN](reports/figures/kmeans_clusters.png)
-![3D_Hierarichal](reports/figures/dendrogram.png)
-![CustomerProfile_RadarChart](reports/figures/kmeans_clusters.png)
+![k-means Cluster1](reports/figures/k-means_Cluster1.png)
+![Dendogram](reports/figures/Dendogram.png)
+![3D_k-means](reports/figures/3D_K-means.png)
+![Anamolies_k-means](reports/figures/Anamolies_k-means.png)
+![DBSCAN](reports/figures/DBSCAN.png)
+![3D_Hierarichal](reports/figures/3D_Hierarichal.png)
+![CustomerProfile_RadarChart](reports/figures/CustomerProfile_RadarChart.jpg)
 ![Factor_loading](reports/figures/Factor_loading.png)
 
 Cluster 1: High Income, Low Spending → Potential premium members
