@@ -31,7 +31,15 @@ DBSCAN
 
 ## 📈 Results & Insights
 Cluster Visualizations
-(Insert screenshots here)
+![k-means Cluster1](reports/figures/kmeans_clusters.png)
+![Dendogram](reports/figures/dendrogram.png)
+![3D_k-means](reports/figures/kmeans_clusters.png)
+![Anamolies_k-means](reports/figures/dendrogram.png)
+![DBSCAN](reports/figures/kmeans_clusters.png)
+![3D_Hierarichal](reports/figures/dendrogram.png)
+![CustomerProfile_RadarChart](reports/figures/kmeans_clusters.png)
+![Factor_loading](reports/figures/Factor_loading.png)
+
 Cluster 1: High Income, Low Spending → Potential premium members
 Cluster 2: Low Income, High Spending → Risky customers (possible credit issues)
 Cluster 3: Average Income, Balanced Spending → General target group
