@@ -30,6 +30,9 @@ DBSCAN
 ![3D_Hierarichal](reports/3D_Hierarichal.png)
 ![CustomerProfile_RadarChart](reports/CustomerProfile_RadarChart.jpg)
 ![Factor_loading](reports/Factor_loading.png)
+![Elbow_Method](reports/Elbow_method.png)
+![Skree_plot](reports/Skree_plot.png)
+![Hybrid_method](reports/hybrid_clusters.png)
 
 Cluster 1: High Income, Low Spending → Potential premium members
 Cluster 2: Low Income, High Spending → Risky customers (possible credit issues)
