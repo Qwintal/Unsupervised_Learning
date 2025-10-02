@@ -21,7 +21,7 @@ Clustering Algorithms:\
 K-Means\
 DBSCAN\
 Hierarchical\
-Hybrid(K-means + DBSCAN)\
+Hybrid(K-means + DBSCAN)
 
 ## 📈 Results & Insights
 ![Skree_plot](reports/Skree_plot.png)
@@ -41,13 +41,13 @@ Cluster 0 – Low activity customers → Upsell campaigns\
 Cluster 1 – Premium high spenders → Loyalty & rewards\
 Cluster 2 – Disciplined payers → Cross-sell products\
 Cluster 3/4 – Balanced spenders → EMI/instalment offers\
-Cluster 5 – Frequent small transactions → Cashback programs\
+Cluster 5 – Frequent small transactions → Cashback programs
 
 ## 📊 Evaluation Metrics
 Silhouette Score\
 Davies–Bouldin Index\
 Inertia (for K-Means Elbow Method)\
-Calinski-Harabasz Index\
+Calinski-Harabasz Index
 
 ## 🚀 How to Run
 1. Clone this repo
@@ -67,7 +67,7 @@ Calinski-Harabasz Index\
 
 ## 📌 Future Work
 Streamlit support app\
-user uploads dataset → choose clustering algorithm → see results.\
+user uploads dataset → choose clustering algorithm → see results.
 
 ## 👨‍💻 Author
 Ankit U
