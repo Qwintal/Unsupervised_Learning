@@ -8,18 +8,20 @@ For better understanding,please refer this presentation
 [View Project Presentation (PDF)](reports/Unsupervised_ppt.pdf) 
 
 ## 📊 Dataset
-Source: UCI / Kaggle Credit Card Dataset
-Features: Income, Spending Score, Balance, Purchases, etc.
-Size: ~9000 records
-Target: No labels (unsupervised task)
+Source: UCI / Kaggle Credit Card Dataset\
+Features: Income, Spending Score, Balance, Purchases, etc.\
+Size: ~9000 records\
+Target: No labels (unsupervised task)\
 [click here](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 
 ## 🛠️ Methods Used
-Data preprocessing (scaling, handling missing values)
-Dimensionality reduction with PCA (for visualization)
-Clustering Algorithms:
-K-Means
-DBSCAN
+Data preprocessing (scaling, handling missing values)\
+Dimensionality reduction with PCA (for visualization)\
+Clustering Algorithms:\
+K-Means\
+DBSCAN\
+Hierarchical\
+Hybrid(K-means + DBSCAN)\
 
 ## 📈 Results & Insights
 ![Skree_plot](reports/Skree_plot.png)
@@ -35,16 +37,17 @@ DBSCAN
 ![Factor_loading](reports/Factor_loading.png)
 
 ## 💼 Cluster Signmentation/Business Insights
-Cluster 0 – Low activity customers → Upsell campaigns
-Cluster 1 – Premium high spenders → Loyalty & rewards
-Cluster 2 – Disciplined payers → Cross-sell products
-Cluster 3/4 – Balanced spenders → EMI/instalment offers
-Cluster 5 – Frequent small transactions → Cashback programs
+Cluster 0 – Low activity customers → Upsell campaigns\
+Cluster 1 – Premium high spenders → Loyalty & rewards\
+Cluster 2 – Disciplined payers → Cross-sell products\
+Cluster 3/4 – Balanced spenders → EMI/instalment offers\
+Cluster 5 – Frequent small transactions → Cashback programs\
 
 ## 📊 Evaluation Metrics
-Silhouette Score
-Davies–Bouldin Index
-Inertia (for K-Means Elbow Method)
+Silhouette Score\
+Davies–Bouldin Index\
+Inertia (for K-Means Elbow Method)\
+Calinski-Harabasz Index\
 
 ## 🚀 How to Run
 1. Clone this repo
@@ -61,14 +64,10 @@ Inertia (for K-Means Elbow Method)
    jupyter notebook notebooks/CustomerSegmentation.ipynb
    ```
 
-## 🔍 Key Takeaways
-Clustering revealed 3–4 meaningful customer groups.
-Businesses can use these clusters for targeted campaigns.
-Future improvements: Streamlit app, advanced clustering (Gaussian Mixture Models).
 
 ## 📌 Future Work
-Streamlit support app
-user uploads dataset → choose clustering algorithm → see results.
+Streamlit support app\
+user uploads dataset → choose clustering algorithm → see results.\
 
 ## 👨‍💻 Author
 Ankit U
