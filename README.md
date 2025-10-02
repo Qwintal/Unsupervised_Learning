@@ -34,9 +34,12 @@ DBSCAN
 ![CustomerProfile_RadarChart](reports/CustomerProfile_RadarChart.jpg)
 ![Factor_loading](reports/Factor_loading.png)
 
-Cluster 1: High Income, Low Spending → Potential premium members
-Cluster 2: Low Income, High Spending → Risky customers (possible credit issues)
-Cluster 3: Average Income, Balanced Spending → General target group
+## 💼 Cluster Signmentation/Business Insights
+Cluster 0 – Low activity customers → Upsell campaigns
+Cluster 1 – Premium high spenders → Loyalty & rewards
+Cluster 2 – Disciplined payers → Cross-sell products
+Cluster 3/4 – Balanced spenders → EMI/instalment offers
+Cluster 5 – Frequent small transactions → Cashback programs
 
 ## 📊 Evaluation Metrics
 Silhouette Score
