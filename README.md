@@ -5,7 +5,7 @@ The goal is to provide business insights that can help in targeted marketing, cu
 
 ### PPT
 For better understanding,please refer this presentation
-[View Project Presentation (PDF)](reports/Customer_Segmentation_Presentation.pdf) 
+[View Project Presentation (PDF)](reports/Unsupervised_ppt.pdf) 
 
 ## 📊 Dataset
 Source: UCI / Kaggle Credit Card Dataset
